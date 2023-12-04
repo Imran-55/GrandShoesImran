@@ -1,0 +1,46 @@
+/* #navbar1{
+    margin-top: 0;
+    padding-top: 0;
+    height: 70px;
+}
+#logoimg{
+    margin-left: 200px;
+}*/
+#logoname{
+    padding-top: 30px;
+} 
+.logo{
+    margin-left: 350px;
+}
+#pumashoe{
+    /* display: block; */
+    /* position:fixed; */
+    /* object-fit: contai */
+    background-size: cover;
+}
+#skechers{
+    background-size: cover;
+}
+#tree{
+    background-size: contain;
+}
+#four{
+    background-size: cover;
+}
+section{
+    margin-top: 20px;
+}
+.rowse{
+    margin-top: 50px;
+    /* border-top: 1px solid #e5e5e5 ; */
+}
+.blog-footer{
+    padding: 0.25 rem;
+    color: #999;
+    text-align: center;
+    border-top: 2px solid #e5e5e5;
+    /* background-color: #000000; */
+}
+button :hover{
+ background-color: #e5e5e5;   
+}
